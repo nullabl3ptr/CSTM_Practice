@@ -1,0 +1,26 @@
+ {
+    "qid" : 4,
+    "question" : "",
+    "answers" : [
+      {
+        "aid": 1,
+        "correctAnswer": false,
+        "text": ""
+      },
+      {
+        "aid": 2,
+        "correctAnswer": false,
+        "text": ""
+      },
+      {
+        "aid": 3,
+        "correctAnswer": false,
+        "text": ""
+      },
+      {
+        "aid": 4,
+        "correctAnswer": false,
+        "text": ""
+      }
+    ]
+  }
